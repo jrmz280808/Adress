@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colegio Privado Dios con Nosotros</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: green;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        main {
+            padding: 1em;
+        }
+        footer {
+            background-color: #39C636;
+            color: White;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Colegio Privado Dios con Nosotros</h1>
+    </header>
+    <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#nosotros">Nosotros</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+    <main>
+        <section id="inicio">
+            <h2>Bienvenidos al Colegio Privado Dios con Nosotros</h2>
+            <p>¡Educación Inicial, Primaria y Secundaria para niños y niñas, con un enfoque personalizado que integra a las familias en la formación académica!. En nuestro colegio, nos dedicamos a proporcionar una educación de calidad para todos nuestros estudiantes.</p>
+        </section>
+        <section id="nosotros">
+            <h2>Sobre Nosotros</h2>
+            <p>El Colegio Privado Dios con Nosotros ha estado educando a jóvenes desde 1985, con un enfoque en el desarrollo integral de cada estudiante.</p>
+        </section>
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Para más información, por favor contáctenos a través de:</p>
+            <p>Correo electrónico: info@colegioejemplo.com</p>
+            <p>Teléfono: 0249-232-96-60</p>
+            <p>Instagram: @u.e.diosconnosotros</p>
+            <p>Directora: Yani Vasquez</p>
+        </section>
+         </main>
+    <footer>
+        <p>© Copyright. 2024 Colegio Privado Dios con Nosotros. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
